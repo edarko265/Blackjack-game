@@ -1,4 +1,4 @@
-# 🃏 Blackjack Game in C
+# 🃏 Blackjack Game in C!
 
 This is a simple implementation of the classic Blackjack card game written in C. The project demonstrates the use of basic C programming concepts such as functions, arrays, and user input/output.
 
